@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @douglucio
-- 👀 I’m interested in Java, Spring Boot, Javascript, Node.js, Python, Django, Php, Laravel 
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Java, Spring Boot, Javascript, Node.js, Angular. 
+- 🌱 I’m currently learning Java with SpringBoot.
 - 💞️ I’m looking to collaborate on web project
 - 📫 you can reach me by email ronaldoreis.web@gmail.com
 
